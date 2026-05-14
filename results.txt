@@ -1,0 +1,18 @@
+Name: Arun
+Roll Number: 101
+Total: 263
+Average: 87.66666666666667
+Grade: B
+
+Name: Meera
+Roll Number: 102
+Total: 283
+Average: 94.33333333333333
+Grade: A
+
+Name: Rahul
+Roll Number: 103
+Total: 225
+Average: 75.0
+Grade: B
+
