@@ -1,3 +1,6 @@
 Name: Alha Zakkir
 Age: 20
 Marks: 98
+Name: Amal
+Age: 18
+Marks: 95
